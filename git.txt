@@ -1,0 +1,27 @@
+Git -> sistem kontrol versi yang terdistribusi untuk project kecil hingga besar
+Git clone -> untuk kloning repository yang ada
+Git add -> untuk menambahkan file atau perubahan pada area pementasan
+Git commit -> untuk mencatat perubahan pada repository
+Git status -> untuk menampilkan status perubahan
+Git log -> untuk menampilkan riwayat penerapan
+Git branch -> menampilkan nama branch, bisa juga membuat branch baru
+Git checkout -> untuk pindah cabang atau memulihkan file
+Git merge -> menggabungkan branch
+Git pull -> ambil semua perubahan dari remote repository dan gabung ke local repository
+Git fecth -> ambil semua perubahan dari remote repo tapi tidak di gabung ke local repo
+Git push -> unggah file dari local repo ke remote repository
+Git reset -> batalkan perubahan dengan mengatur ulang Head saat ini ke keadaan tertentu
+Git revert -> buat komit baru yang membatalkan perubahan dari komit yang ditentukan
+Git rebase -> untuk menggabungkan perubahan dari satu branch ke branch lain tanpa membuat commit merge baru.
+Git cherry-pick -> untuk menerapkan perubahan dari komit tertentu ke cabang saat ini
+Git stash -> untuk menyimpan perubahan yang belum siap di terapkan
+Git tag -> untuk menandai komitmen tertentu
+Repository -> tempat sentral dimana data disimpan dan dikelola
+Semantic versioning -> skema untuk membuat versi perangkat lunak yang menggunakan nomor versi yang bermakna
+Versi:   1.0.0
+          v
+Versi:   2.0.0  (MAJOR: perubahan besar)
+          v
+Versi:   2.1.0  (MINOR: penambahan fitur)
+          v 
+Versi:   2.1.1  (PATCH: perbaikan bug)
