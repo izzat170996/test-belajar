@@ -1,1 +1,1 @@
-test reset dan revert
+test reset dan revert dan test rebase
